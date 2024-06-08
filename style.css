@@ -1,0 +1,24 @@
+body {
+    text-align: left; 
+    background-color: antiquewhite;
+} 
+
+h1 { 
+    text-align: center;
+    color: blue;
+} 
+
+
+div{
+    height: 100%;
+    width: 100%; 
+    border: 1px solid black; 
+    background-color: aliceblue;
+}
+
+
+
+
+button {
+    background-color: rgb(66, 206, 85);
+}
